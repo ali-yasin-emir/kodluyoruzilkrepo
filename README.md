@@ -21,6 +21,6 @@ Linux için:
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-#License
+## License
 
 [MIT]()
